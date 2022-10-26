@@ -1,0 +1,8 @@
+Point(x=809, y=1004)
+Point(x=809, y=373) 
+Point(x=803, y=457) 
+Point(x=807, y=543) 
+Point(x=805, y=624) 
+Point(x=809, y=708) 
+Point(x=968, y=164) 
+Point(x=767, y=170) 
